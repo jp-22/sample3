@@ -1,0 +1,7 @@
+import random
+
+l1 = (random.sample(range(1,100),25))
+print(l1)
+l2 = sorted(l1)
+print(l2)
+
