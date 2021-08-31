@@ -3,7 +3,7 @@ try:
     print(v)
 
 except:
-    print("syntax error")
+    print("syntax error changed ")
 
 else:
     print("good morning")
